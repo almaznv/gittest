@@ -8,3 +8,6 @@ var func1 = function() {}
 var func2 = function() {}
 
 var func3 = function() {}
+
+
+var func4 = function() {}
