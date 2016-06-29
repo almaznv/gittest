@@ -12,3 +12,6 @@ var b;
 
 
 var global1 = function(){}
+
+
+var global2 = function(){}
