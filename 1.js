@@ -1,4 +1,5 @@
 
+
 var a = 2 - 2;
 var b;
 
@@ -11,3 +12,5 @@ var func3 = function() {}
 
 
 var func4 = function() {}
+
+var global1 = function(){}
